@@ -51,7 +51,7 @@ Using an extensive set of raw data, I was able to create a more succint table th
 Insights and Conclusions
  
 
-(https://github.com/IMAnalyst/My_Data_Portfolio/blob/main/gapminder_dashboard.png)
+![Alt text](https://github.com/IMAnalyst/My_Data_Portfolio/blob/main/gapminder_dashboard.png)
 
 
 ## Power BI
