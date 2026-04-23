@@ -63,7 +63,8 @@ Insights and Conclusions
 - Acapella is the least popular genre, potential reason for this, live performances can be found more on Youtube, such as NPR Tiny Desk, VevoLive, Coachella. It is rare that these peformances get put on streaming platforms due to music rights (copyrights)
 
 **Practical Application**
-Example: Simon Cowell
+
+Example: One Direction
 - Simon Cowell is a revered music executive and talent scout. For him these insights are useful because he develops artists/bands to succeed. Knowing what the most popular music genres allow him to tailor his artists to appeal to target audiences
 - Example: One directions highest popularity was between 2013-2014. According to research n 2013-2014, pop and rock dominated overall music sales, but the landscape was shifting rapidly. Rock (34.8%) led in overall album and digital sales in 2013, while pop/top-40 was the biggest genre globally
 - One Directions music was a blend of Pop and Rock Music. 
@@ -71,15 +72,20 @@ Example: Simon Cowell
 
 **Project 2: Global Health Insights** 
 
-Using an extensive set of raw data, I was able to create a more succint table that represents the same data using a Pivot Table. 
+In this project, I was tasked with finding insights that could prove useful for the NHS and WHO (World Health Organisation). 
 
 Insights and Conclusions
-
+- Europe have the best life expectancy across continents; this is positive for the NHS because they are a European/British establishment/service.
+- Japan have a higher much life expectancy trend that other countries, what is the lifestyle of a average Japanese person, what could the NHS take from their lifestyle and promote it in the UK, such as healthier eating, exercise
+- BMI might not be the best measure for health in some circumstances, Sierra Leone has a low average BMI and a low life expectancy, there are external factors to consider
+- Population Growth hasn't had that much of an effect on life expectancy, people living longer -greater population – could lead to more patients – need more staff to keep up with demands of population growth
  
 
 ![Alt text](gapminder_dashboard.png)
 
 ![Alt text](GeographofLifeexpectancyaroundtheworld.png)
+
+
 ## Power BI - Data Modelling
 – Sample reports showing KPIs, slicers, and interactive visuals. 
 
