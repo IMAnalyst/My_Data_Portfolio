@@ -17,7 +17,8 @@ I'm am an aspiring Data Analyst based in Birmingham, UK. I attended Nottingham T
 - Creating visualisations
 - Problem solving and Strategising
 
-## Excel - Project: Bike Sales Analysis
+
+## Excel - Data Cleaning
 **Analysis of Bike Sales** 
 
 In this project, I was tasked with drawing conclusions from raw data to provide insights into Bike Sales. When given raw data, it is important to undertake the processes of a Data Analyst. Processes such as data cleaning by table formatting, standardisation of formats and filtering outliers. These all aid in validating and verifying the data set. Datasets can be long and extensive, and this is where Pivot Tables are vital. Pivot table allow analysts to create condesed tables that can be easily modified. The image below, shows the pivot table I created from the dataset. 
@@ -44,18 +45,17 @@ A powerful tool in excel is the ability to create visualisations from Pivot Tabl
 - Highlights potential customers that sales can be improved
 
 
+## Tableau - Data Visualising 
+**Project 1: Spotify** 
 
-## Tableau
-**Spotify** 
-
-Using an extensive set of raw data, I was able to create a more succint table that represents the same data using a Pivot Table. 
+In this project, I was presented with the task of creating visualisation dashboards to present to potential stakeholders. Tableau is an amazing tool for data visualisation because of its interactivity, visualisations are created using a user friendly drag and drop interface. This was the perfect software to use after excel because data terminology such as fields and records are all important here. I believe my expertise from VFX shown through here, such as colour theory and composition. Dashboards are a great way of showcasing multiple visualisations. Hence why, Tableau contains a plethora of visulisations such as the common bar chart, pie chart and scatter plot. An more unique visualisations such as the world map, which is shown below. 
 
 Insights and Conclusions
 - 
 
 ![Alt text](spotify_dashboard.png)
 
-**Global Health Insights** 
+**Project 2: Global Health Insights** 
 
 Using an extensive set of raw data, I was able to create a more succint table that represents the same data using a Pivot Table. 
 
@@ -65,7 +65,7 @@ Insights and Conclusions
 ![Alt text](gapminder_dashboard.png)
 
 
-## Power BI
+## Power BI - Data Modelling
 – Sample reports showing KPIs, slicers, and interactive visuals. 
 
 ## SQL
