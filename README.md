@@ -46,14 +46,16 @@ A powerful tool in excel is the ability to create visualisations from Pivot Tabl
 
 
 ## Tableau - Data Visualising 
-**Project 1: Spotify** 
 
-In this project, I was presented with the task of creating visualisation dashboards to present to potential stakeholders. Tableau is an amazing tool for data visualisation because of its interactivity, visualisations are created using a user friendly drag and drop interface. This was the perfect software to use after excel because data terminology such as fields and records are all important here. I believe my expertise from VFX shown through here, such as colour theory and composition. Dashboards are a great way of showcasing multiple visualisations. Hence why, Tableau contains a plethora of visulisations such as the common bar chart, pie chart and scatter plot. An more unique visualisations such as the world map, which is shown below. 
+Tableau is an amazing tool for data visualisation because of its interactivity, visualisations are created using a user friendly drag and drop interface. This was the perfect software to use after excel because data terminology such as fields and records are all important here. I believe my expertise from VFX shown through here, such as colour theory and composition. Dashboards are a great way of showcasing multiple visualisations. Hence why, Tableau contains a plethora of visulisations such as the common bar chart, pie chart and scatter plot. An more unique visualisations such as the world map, which is shown below. 
+
+**Project 1: Spotify** 
+In this project, I was presented with the task of creating visualisation dashboards to present to potential stakeholders at a company e.g Sony Music. Using a tableau I created a dashboard of visualisations based on the data.
+
+![Alt text](spotify_dashboard.png)
 
 Insights and Conclusions
 - 
-
-![Alt text](spotify_dashboard.png)
 
 **Project 2: Global Health Insights** 
 
@@ -64,7 +66,7 @@ Insights and Conclusions
 
 ![Alt text](gapminder_dashboard.png)
 
-
+![Alt text](GeographofLifeexpectancyaroundtheworld.png)
 ## Power BI - Data Modelling
 – Sample reports showing KPIs, slicers, and interactive visuals. 
 
