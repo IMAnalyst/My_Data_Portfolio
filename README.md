@@ -27,7 +27,7 @@ A pivot table that shows Bike Sales accross Age-Groups and Countries.
 
 **Summary Bar Chart**
 
-![Alt text](https://github.com/IMAnalyst/My_Data_Portfolio/blob/main/bikesalessummarychart.png)
+![Alt text](bikesalessummarychart.png)
 
 **Insights and Conclusions**
 
