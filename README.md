@@ -1,4 +1,4 @@
-# Hi, I'm Isaac, :wave:
+# Hi, I'm Isaac, 👋
 
 **Background** 
 
