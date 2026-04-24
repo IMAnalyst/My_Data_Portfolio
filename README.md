@@ -77,6 +77,8 @@ Example: One Direction
 
 **Project 2: Global Health Insights** 
 
+Link: https://public.tableau.com/app/profile/isaac.manning/viz/GHInsights-v1/Dashboard1?publish=yes 
+
 In this project, I was tasked with finding insights that could prove useful for the NHS and WHO (World Health Organisation). 
 
 ![Alt text](gapminder_dashboard.png)
@@ -113,9 +115,9 @@ Insights and Conclusions
 - Low sales are in January (post christmas), which makes sense, so an action would be to reduce stock/marketing spends and hiring
 - Increase the inventory for Bikes because its the highest selling product
 
-# SQL
+## SQL - Data Manipulation
 
-## Python
+## Python - Data Retrieval 
 
 ## Get in touch 
 - Email: *isaacmanning@hotmail.co.uk*
