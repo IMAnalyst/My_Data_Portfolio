@@ -116,9 +116,10 @@ Insights and Conclusions
 - Increase the inventory for Bikes because its the highest selling product
 
 ## SQL - Data Manipulation
+In this module. 
 
 ## Python - Data Retrieval 
 
 ## Get in touch 
 - Email: *isaacmanning@hotmail.co.uk*
-- Linkedin: *https://www.linkedin.com/in/isaac-manning-8988a3222/*
+- Linkedin: [Isaac Manning](https://www.linkedin.com/in/isaac-manning-8988a3222/)
