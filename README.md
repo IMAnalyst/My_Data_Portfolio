@@ -32,6 +32,8 @@ A pivot table that shows Bike Sales accross Age-Groups and Countries.
 
 A powerful tool in excel is the ability to create visualisations from Pivot Tables. Using this pivot table, I created a Bar Chart to summarise the Bike Sales. This is a more streamlined way of viewing the data, allowing the viewer to quickly compare the categories. 
 
+
+
 **Summary Bar Chart**
 
 ![Alt text](bikesalessummarychart.png)
@@ -46,7 +48,9 @@ A powerful tool in excel is the ability to create visualisations from Pivot Tabl
 **Practical Application**
 
 - The company can use these insights to help shape marketing strategies for lower age ranges (Youth)
-- Highlights potential customers that sales can be improved
+- Example (AI Assisted): If this is a bike sales company, perhaps the product mix is skewed toward high-end adult road bikes rather than entry-level or BMX-style bikes that appeal to younger riders.
+- Customer satisfaction can be looked into
+- Greater use of social media in digital age and seasonal profits. 
 
 
 ## Tableau - Data Visualising 
@@ -149,7 +153,8 @@ where population > 500000 and population < 1000000
 
 ```
 
-## Python - Data Retrieval 
+## Python - Data Retrieval and Visualising 
+This bootcamp was a great opportunity to build upon some already established python knowledge. 
 
 ## Get in touch 
 - Email: *isaacmanning@hotmail.co.uk*
