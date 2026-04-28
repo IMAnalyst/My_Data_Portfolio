@@ -117,7 +117,7 @@ Insights and Conclusions
 - Increase the inventory for Bikes because its the highest selling product
 
 ## SQL - Data Manipulation
-In this module, I learnt about structured and non-structural databases. I also learnt about primary keys, secondary keys and foreign keys and relationships between database schemas. 
+In this module, I learnt about structured and non-structural databases. I also learnt about primary keys, secondary keys and foreign keys and relationships between database schemas. For this project, I was tasked with creative queries to retrieve specific data. The World base dataset involved many tables such as, population, city, countrycode, districts and IDs. This database was huge, so its important as an analyst target specific data, relevant for your findings to produce accurate insights. This was a great task to put theory into practice such as filtering, joins, aggregations and subqueries. 
 
 SQL Querey to retrieve the Capital of Spain from the dataset
 ```
@@ -127,6 +127,8 @@ INNER JOIN city ci
 ON c.Capital = ci.ID
 WHERE c.Name = 'Spain';
 ```
+![Alt text](sql.png)
+
 SQL Querey showing a range
 
 ```
