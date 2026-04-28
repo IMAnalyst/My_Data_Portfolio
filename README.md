@@ -28,10 +28,11 @@ I'm am an aspiring Data Analyst based in Birmingham, UK. I attended Nottingham T
 In this project, I was tasked with drawing conclusions from raw data to provide insights into Bike Sales. When given raw data, it is important to undertake the processes of a Data Analyst. Processes such as data cleaning by table formatting, standardisation of formats and filtering outliers. These all aid in validating and verifying the data set. Datasets can be long and extensive, and this is where Pivot Tables are vital. Pivot table allow analysts to create condesed tables that can be easily modified. The image below, shows the pivot table I created from the dataset. 
 
 ![Alt text](bikesalespivotchart.png)
-A pivot table that shows Bike Sales accross Age-Groups and Countries.
+_A pivot table that shows Bike Sales accross Age-Groups and Countries._
 
 A powerful tool in excel is the ability to create visualisations from Pivot Tables. Using this pivot table, I created a Bar Chart to summarise the Bike Sales. This is a more streamlined way of viewing the data, allowing the viewer to quickly compare the categories. 
 
+![Alt text](summarypivot.png)
 
 
 **Summary Bar Chart**
@@ -64,7 +65,7 @@ Tableau is an amazing tool for data visualisation because of its interactivity, 
 In this project, I was presented with the task of creating visualisation dashboards to present to potential stakeholders at a company e.g Sony Music. Using a tableau I created a dashboard of visualisations based on the Spotifty dataset.
 
 ![Alt text](spotify_dashboard.png)
-A dashboard to show Spotify insights.
+_A dashboard to show Spotify insights._
 
 Insights and Conclusions
 - Drake was the most popular artist on Spotify, according to research Spotify is the global leader in music streaming with over 713 million users and 31.7% market share as of early 2026. So essentially drake is the most streamed artist in the world
@@ -87,7 +88,7 @@ Link:
 In this project, I was tasked with finding insights that could prove useful for the NHS and WHO (World Health Organisation). 
 
 ![Alt text](gapminder_dashboard.png)
-A dashboard to show Global Health insights.
+_A dashboard to show Global Health insights._
 
 Insights and Conclusions
 - Europe have the best life expectancy across continents; this is positive for the NHS because they are a European/British establishment/service.
@@ -106,7 +107,7 @@ Example: NHS
 Using Power BI was an interesting experience as it is an alternative way of handling and visualising Data. Where Tableau is more user-friendly, Power BI is more technical. For this project, I was tasked with creating a dashboard of visualisations. I received a dataset of Global Sales of a company called AdventureWorks. The dataset contained products, regions, proft and more. 
 
 ![Alt text](advenpowerbidashboard.png)
-A dashboard to show AdventureWorks insights.
+_A dashboard to show AdventureWorks insights._
 
 Insights and Conclusions
 - Top selling product in the Northeast Region in 2018 were the Bikes (1,439 units), making up nearly the entire revenue bar or North America ($1.2M)
