@@ -14,8 +14,8 @@ I'm am an aspiring Data Analyst based in Birmingham, UK. I attended Nottingham T
 
 ## What I do
 - Data Cleaning and Refinments
-- Creating visualisations
-- Problem solving and Strategising
+- Creating Visualisations
+- Problem Solving and Strategising
 
 ## Why is Data Important
 - Surge of Data in the Digital Age: Research shows that '402.74 million terabytes' of data is either created, consumed or captured daily, therefore it is important that this data is properly handled and also used strategically
